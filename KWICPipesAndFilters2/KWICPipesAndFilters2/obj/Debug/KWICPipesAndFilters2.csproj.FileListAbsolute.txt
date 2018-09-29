@@ -1,0 +1,7 @@
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\bin\Debug\KWICPipesAndFilters2.exe.config
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\bin\Debug\KWICPipesAndFilters2.exe
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\bin\Debug\KWICPipesAndFilters2.pdb
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\obj\Debug\KWICPipesAndFilters2.csprojAssemblyReference.cache
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\obj\Debug\KWICPipesAndFilters2.csproj.CoreCompileInputs.cache
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\obj\Debug\KWICPipesAndFilters2.exe
+c:\users\jg026240\source\repos\KWICPipesAndFilters2\KWICPipesAndFilters2\obj\Debug\KWICPipesAndFilters2.pdb
